@@ -6,7 +6,8 @@ const navs = [
     { title: "About", sectionId: "About-section" },
     { title: "Experience", sectionId: "Experience-section" },
     { title: "Project", sectionId: "Project-section" },
-    { title: "Article", sectionId: "Article-section" },
+    { title: "Certification", sectionId: "Certification-section" },
+    { title: "Articles", sectionId: "Articles-section" },
 ]
 
 const Navbar = ({ navBarItems, currentSection }) => {

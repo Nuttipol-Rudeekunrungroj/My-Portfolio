@@ -3,6 +3,7 @@ import About from "../About";
 import { data as experienceData } from "../../contents/experience"
 import { data as projectData } from "../../contents/project"
 import Footer from "../Footer";
+import {data as certificationData} from "../../contents/certification"
 
 const RightSection = ({ onInitial }) => {
 
@@ -27,8 +28,8 @@ const RightSection = ({ onInitial }) => {
 
             <ContentContainer
                 onInitial={onInitial}
-                title="Article"
-                data={projectData}
+                title="Certification"
+                data={certificationData}
             />
 
             <Footer />

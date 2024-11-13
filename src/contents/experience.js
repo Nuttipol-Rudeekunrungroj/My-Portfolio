@@ -1,48 +1,47 @@
-import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
+
 import picExp from '../assets/exp_site.png'
 import picLittleLemon from '../assets/littlelemon.png'
 
 export const data = [
     {
-        date: "2020-2021",
-        title: "Fullstackkkkk · Sport Analysis System",
-        materials: [
-            { type: faGithub, link: "https://blackboy96.xyz/" },
-            { type: faYoutube, link: "https://blackboy96.xyz/" },
-            { type: faMedium, link: "https://blackboy96.xyz/" },
-        ],
+        date: "Sep.2024-Dec.2024",
+        title: "Junior Software Developer Bootcamp",
+        
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
-            "Create tools for monitoring the backend and implementing self-recovery mechanisms, ensuring their seamless operation 24/7.",
+            ". Built web applications from React as front-end, Node.js as back end and MongoDB as a database.",
+            ". Hands-on experience with full-stack real-world projects.",
+            ". Worked in an Agile team environment, utilizing Scrum methodologies for sprints, stand-ups, and collaborative teamwork."
         ],
         skills: [
-            ["React", "Redus", "MUI"],
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["HTML", "CSS", "JavaScript", "React"],
+            ["NodeJS", "Express", "MongoDB"],
         ],
     },
     {
-        date: "2019-2020",
-        title: "Fashion Ecommerce",
-        materials: [
-            { type: faGithub, link: "https://blackboy96.xyz/" },
-            { type: faYoutube, link: "https://blackboy96.xyz/" },
-            { type: faMedium, link: "https://blackboy96.xyz/" },
-        ],
+        date: "Nov.2019-Jun.2024",
+        title: "Senior Purchasing Staff",
+        
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
+            ". Sourced and identified potential suppliers and evaluated their products and services.",
+            ". Engaged in negotiations with suppliers to secure favorable terms and pricing.",
+            ". Managed a wide range of categories, including Mechanical, Electrical, and Construction Projects and Services. Handled standard and made-to-order machinery parts.",
+". Streamlined the procurement process using the MS Power Platform,including Power BI for data analysis and visualization, Power Automate for process automation, and Power Apps for custom applications.",
         ],
         skills: [
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["MS Power BI", "MS Power Automate", "MS Power App"],
         ],
     },
     {
-        date: "2018-2019",
-        title: "Fashion Ecommerce",
+        date: "Apr.2003-Oct.2019",
+        title: "Mechanical Engineer",
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
+            ". Led machinery installation projects. Collaborated with cross-functional teams. Developed detailed project plans, monitored progress, and addressed challenges. Fostered effective communication and problemsolving.",
+            ". Conducted thorough inspections to verify machinery specifications and safety.",
+            ". Managed projects within allocated budgets.",
+            ". Identified opportunities for process optimization and efficiency gains."
         ],
         skills: [
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["AutoCAD", "SolidWorks"],
         ],
     },
 ]

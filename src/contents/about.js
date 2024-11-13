@@ -1,4 +1,4 @@
 export const data = {
     title: "About",
-    description: "Driven by a deep passion for technology, I undertook a journey of self-study and career transition. With a strong foundation in computer science, extensive knowledge of web development technologies, and growing expertise in blockchain, I am actively seeking opportunities to make a meaningful impact as a developer in the ever-evolving world of technology",
+    description: "Accomplished professional with over 20 years of experience in mechanical engineering and procurement, recently specialized in MERN stack software development through Generation Thailand's Bootcamp. Experienced in project management, procurement optimization, and cross-functional collaboration.Strong problem-solving abilities and a growth mindset. Proficient in using the MS Power Platform for automation and data analysis. Seeking a Tech-Project Management role to leverage my diverse background and drive innovative,customer-centric solutions.",
 }
