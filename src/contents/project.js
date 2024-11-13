@@ -1,6 +1,6 @@
 import { faGithub, faMedium, faYoutube } from "@fortawesome/free-brands-svg-icons";
 import picExp from '../assets/exp_site.png'
-import picLittleLemon from '../assets/littlelemon.png'
+import picArttoyWeb from '../assets/arttoyweb.png'
 
 export const data = [
     // {
@@ -23,21 +23,28 @@ export const data = [
     //     picture: picExp,
     // },
     {
-        date: "2019-2020",
-        title: "Fashion Ecommerce",
-        link: "https://medium.com/@KDeelert/how-i-built-soccer-analyzer-tool-eng-55bf8a473248",
+        date: "Oct 2024 - Dec 2024",
+        title: "Art toys Ecommerce",
+        link: "https://t-rax-black-hole.vercel.app/",
         materials: [
-            { type: faGithub, link: "https://blackboy96.xyz/" },
-            { type: faYoutube, link: "https://blackboy96.xyz/" },
-            { type: faMedium, link: "https://blackboy96.xyz/" },
+            { type: faGithub, link: "https://github.com/T-Rex-Back-Hole/Art-toy_Project.git" },
+            // { type: faYoutube, link: "https://blackboy96.xyz/" },
+            // { type: faMedium, link: "https://blackboy96.xyz/" },
         ],
         descriptions: [
-            "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
+            ". This project is an e-commerce website dedicated to the niche market of art toys. The platform aims to solve the problem of limited access to unique, collectible art toys by providing a comprehensive online marketplace. Users can explore and buy exclusive art toys from various artists and designers, fostering a vibrant community of collectors and creators.",
+            ". A collaborative effort that brought this project to life with creativity and innovation.",
+            ". Burapa  Pratumchai",
+            ". Chayada Punsombut",
+            ". Parinwat Kiatthitipon",
+            ". Nuttipol Rudeekunrungroj",
+            ". Thatchai Taikla"
+
         ],
         skills: [
-            ["NginX", "NodeJS", "Express", "MongoDB"],
+            ["React", "NodeJS", "Express", "MongoDB"],
         ],
-        picture: picLittleLemon,
+        picture: picArttoyWeb,
     },
    
 ]

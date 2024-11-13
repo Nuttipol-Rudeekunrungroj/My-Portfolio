@@ -4,7 +4,7 @@ import picLittleLemon from '../assets/littlelemon.png'
 
 export const data = [
     {
-        date: "Sep.2024-Dec.2024",
+        date: "Sep 2024 - Dec 2024",
         title: "Junior Software Developer Bootcamp",
         
         descriptions: [
@@ -18,7 +18,7 @@ export const data = [
         ],
     },
     {
-        date: "Nov.2019-Jun.2024",
+        date: "Nov 2019 - Jun 2024",
         title: "Senior Purchasing Staff",
         
         descriptions: [
@@ -32,7 +32,7 @@ export const data = [
         ],
     },
     {
-        date: "Apr.2003-Oct.2019",
+        date: "Apr 2003 - Oct 2019",
         title: "Mechanical Engineer",
         descriptions: [
             ". Led machinery installation projects. Collaborated with cross-functional teams. Developed detailed project plans, monitored progress, and addressed challenges. Fostered effective communication and problemsolving.",

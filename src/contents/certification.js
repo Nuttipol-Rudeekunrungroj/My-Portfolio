@@ -3,29 +3,29 @@
 
 export const data = [
     {
-        date: "Dec. 2024",
+        date: "Sep 2024 - Dec 2024",
         link: "https://thailand.generation.org/programs/junior-software-developer/",
-        title: "Junior Software Developer",
+        title: "Generation Thailand : Junior Software Developer",
         descriptions: [
-            ". Built web applications from React as front-end, Node.js as back end and MongoDB as a database.",
-            ". Hands-on experience with full-stack real-world projects.",
-            ". Worked in an Agile team environment, utilizing Scrum methodologies for sprints, stand-ups, and collaborative teamwork."
+            ". Successfully completed an intensive bootcamp designed to prepare participants for real-world tech careers. The program offers experienced instructors, hands-on coding practice, collaboration with industry experts, and access to a strong alumni network. Graduates are equipped with technical skills in HTML, CSS, JavaScript, React, Node.js, Express, relational databases, and MongoDB, as well as essential soft skills for a successful tech career.",
         ],
         skills: [
+            ["SQL","Git & GitHub"],
             ["HTML", "CSS", "JavaScript", "React"],
             ["NodeJS", "Express", "MongoDB"],
         ],
         //picture: picMetaFrontend,
     },
     {
-        date: "Dec. 2024",
-        link: "https://www.codecademy.com/profiles/ruby7222426172",
-        title: "codecademy",
+        date: "Sep 2024 - Dec 2024",
+        link: "https://drive.google.com/drive/folders/1shr5pF9xOFpVYL03wtmsRStNqDUEGsVn?usp=sharing",
+        title: "Codecademy : Web Development Courses",
         descriptions: [
-            ". Built web applications from React as front-end, Node.js as back end and MongoDB as a database.",
+            "Dedicated to becoming a full-stack developer, mastering the practice of developing websites and web applications that live on the internet. Specialize in both front-end and back-end development.",
         ],
         skills: [
-            ["HTML", "CSS", "JavaScript", "React"],
+            ["SQL","Git & GitHub"],
+            ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
             ["NodeJS", "Express", "MongoDB"],
         ],
         //picture: picMetaBackend,
