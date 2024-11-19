@@ -1,5 +1,7 @@
 // import picMetaBackend from "../asset/Meta-Back-End-Developer-Certificate.png";
 // import picMetaFrontend from "../asset/Meta-Front-End-Developer-Certificate.png";
+// import picToeic from '../asset/toeic.jpg';
+import picToeic from '../assets/toeic.jpg'
 
 export const data = [
     {
@@ -29,5 +31,17 @@ export const data = [
             ["NodeJS", "Express", "MongoDB"],
         ],
         //picture: picMetaBackend,
+    },
+    {
+        date: "Sep 2024",
+        link: "https://drive.google.com/drive/folders/116J4PZsEfFeWXs7tmo0rs3obTjk_M2Nq?usp=sharing",
+        title: "TOEIC® Listening & Reading",
+        descriptions: [
+            "TOEIC SCORE : 805",
+        ],
+        skills: [
+            ["English as a Second Language (ESL)"],
+        ],
+        picture: picToeic,
     },
 ];
