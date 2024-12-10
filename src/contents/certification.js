@@ -27,8 +27,8 @@ export const data = [
         ],
         skills: [
             ["SQL","Git & GitHub"],
-            ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
-            ["NodeJS", "Express", "MongoDB"],
+            ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Redux"],
+            ["NodeJS", "Express", "MongoDB", "PostgreSQL"],
         ],
         //picture: picMetaBackend,
     },
