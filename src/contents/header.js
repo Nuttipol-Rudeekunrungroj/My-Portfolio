@@ -1,4 +1,4 @@
-import fileName from '../assets/Nuttipol-R Tech Resume rev.1.pdf'
+import fileName from '../assets/Nuttipol-R Tech Resume rev.3.pdf'
 
 export const data = {
     name: "Nuttipol Rudeekunrungroj",
